@@ -270,3 +270,8 @@
 <!-- a padding to disable MSIE and Chrome friendly error page -->
 
 [19:18:11 | 25-02-2025] ✅ Node started for 0x01f394e53d79D1C77CD104a0FB07da069aB2934C
+[03:10:52 | 26-02-2025] Wallet Address: 0x01f394e53d79D1C77CD104a0FB07da069aB2934C
+[03:10:52 | 26-02-2025] Node Points: 206083
+[03:10:52 | 26-02-2025] Last Claim Point: 24/02/2025 08:13:46
+[03:10:54 | 26-02-2025] ✅ Points claimed for 0x01f394e53d79D1C77CD104a0FB07da069aB2934C
+[03:10:55 | 26-02-2025] 🚨 Failed to start node for 0x01f394e53d79D1C77CD104a0FB07da069aB2934C: [object Object]
