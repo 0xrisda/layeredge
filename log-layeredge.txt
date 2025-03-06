@@ -471,3 +471,6 @@
 <!-- a padding to disable MSIE and Chrome friendly error page -->
 
 [15:14:12 | 06-03-2025] 🚨 Failed to start node for 0x01f394e53d79D1C77CD104a0FB07da069aB2934C: [object Object]
+[19:18:46 | 06-03-2025] Wallet Address: 0x01f394e53d79D1C77CD104a0FB07da069aB2934C
+[19:18:46 | 06-03-2025] Node Points: 356399
+[19:18:46 | 06-03-2025] Last Claim Point: 06/03/2025 08:14:16
