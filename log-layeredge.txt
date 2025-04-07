@@ -1228,3 +1228,18 @@
 [19:19:54 | 07-04-2025] Wallet Address: 0x01f394e53d79D1C77CD104a0FB07da069aB2934C
 [19:19:54 | 07-04-2025] Node Points: 1011755
 [19:19:54 | 07-04-2025] Last Claim Point: 06/04/2025 16:10:45
+[23:11:35 | 07-04-2025] Wallet Address: 0x01f394e53d79D1C77CD104a0FB07da069aB2934C
+[23:11:35 | 07-04-2025] Node Points: 1011755
+[23:11:35 | 07-04-2025] Last Claim Point: 06/04/2025 16:10:45
+[23:11:36 | 07-04-2025] ✅ Points claimed for 0x01f394e53d79D1C77CD104a0FB07da069aB2934C
+[23:11:37 | 07-04-2025] 🚨 Failed to start node for 0x01f394e53d79D1C77CD104a0FB07da069aB2934C: <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot POST /api/light-node/node-action/0x01f394e53d79D1C77CD104a0FB07da069aB2934C/start</pre>
+</body>
+</html>
+
